@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="XebiaLab">
+    <output-path>$USER_HOME$/Desktop/jarrs</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="XebiaLab.jar">
+        <element id="module-output" name="XebiaLab" />
+      </element>
+      <element id="library" level="project" name="Maven: org.json:json:20180813" />
+    </root>
+  </artifact>
+</component>
